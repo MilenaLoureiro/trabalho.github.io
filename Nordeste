@@ -1,0 +1,26 @@
+<html>
+<l<li><a href="index2.html">Inicio</a></li>
+<head>
+
+<title>Nodeste</title>
+
+<body>
+<center>
+<!-- start of introduction -->
+<h1> Nordeste <h1> 
+<p></p>
+<h2>Danças<h2>
+<h3>Xaxado</h3>
+<!-- end of introduction -->
+		<!-- start of main text -->
+			 <figure>
+			                      
+			<img class="irc_mi" src="http://imagens3.ne10.uol.com.br/ne10/imagem/noticia/2017/10/24/normal/36ef6c9c1025387ef77a59ab77206552.jpg" alt="Resultado de imagem para xaxado" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="436" height="262" style="margin-top: 46px;">
+		<br  />
+			<figcaption>Era muito praticada pelos cangaceiros da região, quase sempre, em celebração às suas vitórias .</figcaption>
+		                          </figure>
+								  
+</head>
+</body>
+</html>
+ 
