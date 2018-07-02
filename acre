@@ -1,0 +1,27 @@
+<html>
+<l<li><a href="index2.html">Inicio</a></li>
+<head>
+
+<title>Norte</title>
+
+<body>
+<center>
+<!-- start of introduction -->
+<h1> Norte <h1> 
+<p></p>
+<h2>Gastronomia<h2>
+<h3>Pirarucu à Casaca</h3>
+<!-- end of introduction -->
+		<!-- start of main text -->
+			 <figure>
+			                      
+			<img class="irc_mi" src="http://s2.glbimg.com/XdoUIl7t4AOdf135YBH_RYMAXkM=/e.glbimg.com/og/ed/f/original/2015/11/21/cc46_aopontopremio_04.jpg" alt="Resultado de imagem para pirarucu a casaca" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="436" height="320" style="margin-top: 17px;">
+		<br  />
+			<figcaption>O Acre tem o peixo como um ingrediente importante na sua culinária regional.</figcaption>
+		                          </figure>
+								  
+
+ </head>
+ </body>
+ </html>
+ 
